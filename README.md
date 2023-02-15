@@ -1,6 +1,7 @@
 ### C-Simple Shell
 
 #### Group Project
+---------------------------------------------------------------
 
 #### 0. Betty would be proud
 - Write a beautiful code that passes the Betty checks
@@ -28,7 +29,7 @@ Handle errors.
 - Simple shell 0.1 +
    - Handle command lines with arguments
 
-#### 3. Simple shell 0.3
+#### 3. Simple shell 0.3
 - Simple shell 0.2 +
    - Handle the PATH
    - fork must not be called if the command doesn’t exist
