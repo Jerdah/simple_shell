@@ -2,7 +2,7 @@
 
 #### Group Project
 
-#### 0. Betty would be proud
+#### 0. Betty would be proud
 - Write a beautiful code that passes the Betty checks
 
 #### 1. Simple shell 0.1
@@ -24,7 +24,7 @@ Handle errors.
    - handle commands with arguments
 - execve will be the core part of your Shell, don’t forget to pass the environ to it…
 
-#### 2. Simple shell 0.2
+#### 2. Simple shell 0.2
 - Simple shell 0.1 +
    - Handle command lines with arguments
 
@@ -110,6 +110,5 @@ Handle errors.
    - In this mode, the shell should not print a prompt and should not read from stdin
 
 --------------------------------------------------------------
-#### AUTHORS:
-(Allan Kiarie)[https://github.com/Allan-Kiarie]
-(Idah Jerop)[https://github.com/Jerdah]
+###### [ALLAN KIARIE](https://github.com/Allan-Kiarie)
+###### [IDAH JEROP](https://github.com/Jerdah)
